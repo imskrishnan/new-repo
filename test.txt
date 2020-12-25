@@ -1,5 +1,5 @@
 Modifying the first line in the same line
-add second line
+this line was too short
 editing line 3 in new-branch
 another-branch modified the 4th line
 add 5th line with new-branch
