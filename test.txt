@@ -3,3 +3,4 @@ add second line
 third line
 this is the 4th line
 add 5th line with new-branch
+add 6th line to the test.txt in new-branch
