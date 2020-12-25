@@ -1,9 +1,9 @@
 Modifying the first line in the same line
-add second line
+this line was too short
 editing line 3 in new-branch
 another-branch modified the 4th line
 add 5th line with new-branch
 add 6th line to the test.txt in new-branch
 add 7th line to the test.txt in new-branch
 edited line 8 in new branch
-adding the 9th line!
+im adding line 9 - this is another-branch line 9
