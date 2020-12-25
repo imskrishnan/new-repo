@@ -1,12 +1,9 @@
 Modifying the first line in the same line
 add second line
 editing line 3 in new-branch
-<<<<<<< HEAD
-I want this line modified by new-branch and NOT by another-branch
-=======
 another-branch modified the 4th line
->>>>>>> another-branch
 add 5th line with new-branch
 add 6th line to the test.txt in new-branch
 add 7th line to the test.txt in new-branch
 edited line 8 in new branch
+adding the 9th line!
